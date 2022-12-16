@@ -1,0 +1,3 @@
+Cre	GenBank	gene	1	1031	.	+	.	gene_id "Cre"; gene_version "1"; transcript_id "Cre"; gene_type "protein_coding"; gene_name "Cre";
+Cre	GenBank	transcript	1	1031	.	+	.	gene_id "Cre";  gene_version "1"; transcript_id "Cre"; gene_type "protein_coding"; gene_name "Cre";
+Cre	GenBank exon	1	1031	.	+	.	gene_id "Cre";  gene_version "1"; transcript_id "Cre"; gene_type "protein_coding"; gene_name "Cre";	
