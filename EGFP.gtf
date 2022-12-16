@@ -1,0 +1,2 @@
+EGFP	GenBank	transcript	1	720	.	+	.	gene_id "EGFP"; gene_version "1"; transcript_id "EGFP"; gene_type "protein_coding"; gene_name "EGFP";
+EGFP	GenBank	exon	1	720	.	+	.	gene_id "EGFP"; gene_version "1"; transcript_id "EGFP"; gene_type "protein_coding"; gene_name "EGFP";
