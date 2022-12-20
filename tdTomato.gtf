@@ -1,0 +1,3 @@
+tdTomato	GenBank	gene	1	1431	.	+	.	gene_id "tdTomato"; gene_version "1"; transcript_id "tdTomato"; gene_type "protein_coding"; gene_name "tdTomato";
+tdTomato	GenBank	transcript	1	1431	.	+	.	gene_id "tdTomato"; gene_version "1"; transcript_id "tdTomato"; gene_type "protein_coding"; gene_name "tdTomato";
+tdTomato	GenBank	exon	1	1431	.	+	.	gene_id "tdTomato"; gene_version "1"; transcript_id "tdTomato"; gene_type "protein_coding"; gene_name "tdTomato";
