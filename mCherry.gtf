@@ -1,0 +1,3 @@
+mCherry	GenBank	gene	1	711	.	+	.	gene_id "mCherry"; gene_version "1"; transcript_id "mCherry"; gene_type "protein_coding"; gene_name "mCherry";
+mCherry	GenBank	transcript	1	711	.	+	.	gene_id "mCherry"; gene_version "1"; transcript_id "mCherry"; gene_type "protein_coding"; gene_name "mCherry";
+mCherry	GenBank	exon	1	711	.	+	.	gene_id "mCherry"; gene_version "1"; transcript_id "mCherry"; gene_type "protein_coding"; gene_name "mCherry";
