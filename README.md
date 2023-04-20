@@ -11,3 +11,4 @@
 ## Building Custom Cellranger References
 
 Standard reference packages built by 10x Genomics are used when available. These packages can be downloaded here:
+https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest
